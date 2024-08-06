@@ -33,7 +33,7 @@ docker-compose elasticsearch + kibana;
 
 ### Ответ 1
 
-![alt text]([https://github.com/Daark46/ELK/blob/main/1.png)
+![alt text](https://github.com/Daark46/ELK/blob/main/1.png)
 
 ### Задание 2. Kibana
 Установите и запустите Kibana.
